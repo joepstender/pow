@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.0.17 (TBA)
+
+### Enhancements
+
+* [`Pow.Ecto.Schema`] Now has an `@after_compile` callback that ensures all required fields has been defined
+
 ## v1.0.16 (2020-01-07)
 
 **Note:** This release contains an important security fix.
